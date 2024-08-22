@@ -73,6 +73,9 @@ nav ul li a:hover {
   nav ul li{
     margin: 0 10px;
   }
+  header {
+    padding: 18px;
+  }
 } 
 
 .form-container {
