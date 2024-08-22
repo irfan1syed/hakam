@@ -70,6 +70,9 @@ nav ul li a {
 nav ul li a:hover {
   /* text-decoration: underline; */
   font-size: 20px;
+  nav ul li{
+    margin: 0 13px;
+  }
 } 
 
 .form-container {
